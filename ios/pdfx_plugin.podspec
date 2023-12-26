@@ -3,7 +3,7 @@
 # Run `pod lib lint pdfx.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'pdfx'
+  s.name             = 'pdfx_plugin'
   s.version          = '1.0.0'
   s.summary          = 'Flutter Plugin to render a PDF file.'
   s.description      = <<-DESC
